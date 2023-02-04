@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: a5267967d59a3394b9d66cb663265345
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4114111432495891202
+    second: Attack (44x42)_0
+  - first:
+      213: 1404240895519133374
+    second: Attack (44x42)_1
+  - first:
+      213: -878275179285171030
+    second: Attack (44x42)_2
+  - first:
+      213: -7532476932650681572
+    second: Attack (44x42)_3
+  - first:
+      213: -5444616188093435142
+    second: Attack (44x42)_4
+  - first:
+      213: 3576266851605089446
+    second: Attack (44x42)_5
+  - first:
+      213: 6117172992526248574
+    second: Attack (44x42)_6
+  - first:
+      213: 950257295226654881
+    second: Attack (44x42)_7
+  - first:
+      213: 3761147956376275535
+    second: Attack (44x42)_8
+  - first:
+      213: -1363018244579021913
+    second: Attack (44x42)_9
+  - first:
+      213: 4336163370547162259
+    second: Attack (44x42)_10
+  - first:
+      213: 5039363318175377103
+    second: Attack (44x42)_11
+  - first:
+      213: 6498296780976518452
+    second: Attack (44x42)_12
+  - first:
+      213: -2321580701902997219
+    second: Attack (44x42)_13
+  - first:
+      213: -874234162068819586
+    second: Attack (44x42)_14
+  - first:
+      213: -8047358081964018319
+    second: Attack (44x42)_15
+  - first:
+      213: 7342067072212231941
+    second: Attack (44x42)_16
+  - first:
+      213: 2054995698987036544
+    second: Attack (44x42)_17
+  - first:
+      213: -2959414015691292725
+    second: Attack (44x42)_18
+  - first:
+      213: -8385874178761177576
+    second: Attack (44x42)_19
+  - first:
+      213: 314014685718610653
+    second: Attack (44x42)_20
+  - first:
+      213: 2856070595915978467
+    second: Attack (44x42)_21
+  - first:
+      213: -637904564387218532
+    second: Attack (44x42)_22
+  - first:
+      213: 6584761960368719996
+    second: Attack (44x42)_23
+  - first:
+      213: 4160341080220814680
+    second: Attack (44x42)_24
+  - first:
+      213: 2349307586027212757
+    second: Attack (44x42)_25
+  - first:
+      213: -2751671249118764490
+    second: Attack (44x42)_26
+  - first:
+      213: -4285849776240837533
+    second: Attack (44x42)_27
+  - first:
+      213: 5666341359427710467
+    second: Attack (44x42)_28
+  - first:
+      213: 4390074373890139862
+    second: Attack (44x42)_29
+  - first:
+      213: -4353307851503518327
+    second: Attack (44x42)_30
+  - first:
+      213: -8601773867595739461
+    second: Attack (44x42)_31
+  - first:
+      213: -8120925837058766727
+    second: Attack (44x42)_32
+  - first:
+      213: -7775642933655408136
+    second: Attack (44x42)_33
+  - first:
+      213: 1704269779439290551
+    second: Attack (44x42)_34
+  - first:
+      213: 4573409371944907084
+    second: Attack (44x42)_35
+  - first:
+      213: -2221091978590884080
+    second: Attack (44x42)_36
+  - first:
+      213: -5079974502139702436
+    second: Attack (44x42)_37
+  - first:
+      213: 391165885073890958
+    second: Attack (44x42)_38
+  - first:
+      213: 741188720698018143
+    second: Attack (44x42)_39
+  - first:
+      213: -5796422282802650342
+    second: Attack (44x42)_40
+  - first:
+      213: 2483820724115501672
+    second: Attack (44x42)_41
+  - first:
+      213: -3655580294738423802
+    second: Attack (44x42)_42
+  - first:
+      213: -1294317646953827000
+    second: Attack (44x42)_43
+  - first:
+      213: 189514623313261102
+    second: Attack (44x42)_44
+  - first:
+      213: 2477006496548500442
+    second: Attack (44x42)_45
+  - first:
+      213: 1345937227895422072
+    second: Attack (44x42)_46
+  - first:
+      213: 5925021957160565634
+    second: Attack (44x42)_47
+  - first:
+      213: -6656401850184167278
+    second: Attack (44x42)_48
+  - first:
+      213: -2297534407386255801
+    second: Attack (44x42)_49
+  - first:
+      213: 3389976896705978692
+    second: Attack (44x42)_50
+  - first:
+      213: 3060878841826580244
+    second: Attack (44x42)_51
+  - first:
+      213: 7409780945634177550
+    second: Attack (44x42)_52
+  - first:
+      213: 4836722074120530646
+    second: Attack (44x42)_53
+  - first:
+      213: 2880287975698396247
+    second: Attack (44x42)_54
+  - first:
+      213: -8991058492706224721
+    second: Attack (44x42)_55
+  - first:
+      213: -9155553839974344801
+    second: Attack (44x42)_56
+  - first:
+      213: 7767190663398993034
+    second: Attack (44x42)_57
+  - first:
+      213: 5422193023812772159
+    second: Attack (44x42)_58
+  - first:
+      213: 1006833608933587492
+    second: Attack (44x42)_59
+  - first:
+      213: -3585031761762198851
+    second: Attack (44x42)_60
+  - first:
+      213: 5741303617530694567
+    second: Attack (44x42)_61
+  - first:
+      213: -6588476849405511197
+    second: Attack (44x42)_62
+  - first:
+      213: 4161530240063843350
+    second: Attack (44x42)_63
+  - first:
+      213: -4111228997475240067
+    second: Attack (44x42)_64
+  - first:
+      213: 2096142559341103459
+    second: Attack (44x42)_65
+  - first:
+      213: 3073340506618486165
+    second: Attack (44x42)_66
+  - first:
+      213: 2673982076326523116
+    second: Attack (44x42)_67
+  - first:
+      213: -3145384707408388085
+    second: Attack (44x42)_68
+  - first:
+      213: -4024190726770290229
+    second: Attack (44x42)_69
+  - first:
+      213: 7710527021046524619
+    second: Attack (44x42)_70
+  - first:
+      213: 6000348921547730441
+    second: Attack (44x42)_71
+  - first:
+      213: -4078191607323709919
+    second: Attack (44x42)_72
+  - first:
+      213: -4773686070174501122
+    second: Attack (44x42)_73
+  - first:
+      213: 4747868438883776722
+    second: Attack (44x42)_74
+  - first:
+      213: -4518276894830114274
+    second: Attack (44x42)_75
+  - first:
+      213: -4468553562696641111
+    second: Attack (44x42)_76
+  - first:
+      213: -6804598516856372776
+    second: Attack (44x42)_77
+  - first:
+      213: 1023702159124971867
+    second: Attack (44x42)_78
+  - first:
+      213: -316818329600249979
+    second: Attack (44x42)_79
+  - first:
+      213: -222341762666275582
+    second: Attack (44x42)_80
+  - first:
+      213: -482837548217401624
+    second: Attack (44x42)_81
+  - first:
+      213: 675587783164333709
+    second: Attack (44x42)_82
+  - first:
+      213: -9166330453009851473
+    second: Attack (44x42)_83
+  - first:
+      213: 182218412307806555
+    second: Attack (44x42)_84
+  - first:
+      213: 547272173692043117
+    second: Attack (44x42)_85
+  - first:
+      213: 8769847352538172261
+    second: Attack (44x42)_86
+  - first:
+      213: -6836766797235361099
+    second: Attack (44x42)_87
+  - first:
+      213: 3800827920141279263
+    second: Attack (44x42)_88
+  - first:
+      213: 404242822546399985
+    second: Attack (44x42)_89
+  - first:
+      213: 8894863901703618948
+    second: Attack (44x42)_90
+  - first:
+      213: -2685175829422310695
+    second: Attack (44x42)_91
+  - first:
+      213: 6629647791717886611
+    second: Attack (44x42)_92
+  - first:
+      213: 4839604046099913192
+    second: Attack (44x42)_93
+  - first:
+      213: 4328522933857212010
+    second: Attack (44x42)_94
+  - first:
+      213: -7079450032331880430
+    second: Attack (44x42)_95
+  - first:
+      213: -7659327958391811292
+    second: Attack (44x42)_96
+  - first:
+      213: -3814370776806380316
+    second: Attack (44x42)_97
+  - first:
+      213: -2886805863266307960
+    second: Attack (44x42)_98
+  - first:
+      213: 4271855876578531272
+    second: Attack (44x42)_99
+  - first:
+      213: 792984405162804871
+    second: Attack (44x42)_100
+  - first:
+      213: 4900374707677538084
+    second: Attack (44x42)_101
+  - first:
+      213: -8280847905763228153
+    second: Attack (44x42)_102
+  - first:
+      213: 5536178248997821313
+    second: Attack (44x42)_103
+  - first:
+      213: -8565145787254212322
+    second: Attack (44x42)_104
+  - first:
+      213: -5128742320203356846
+    second: Attack (44x42)_105
+  - first:
+      213: -5693614164648992285
+    second: Attack (44x42)_106
+  - first:
+      213: 1753242713918612389
+    second: Attack (44x42)_107
+  - first:
+      213: -3675761243676216133
+    second: Attack (44x42)_108
+  - first:
+      213: 862846651540088972
+    second: Attack (44x42)_109
+  - first:
+      213: -9131281576398343126
+    second: Attack (44x42)_110
+  - first:
+      213: 4484665410015786829
+    second: Attack (44x42)_111
+  - first:
+      213: 2849166594375416861
+    second: Attack (44x42)_112
+  - first:
+      213: 1838647011582356548
+    second: Attack (44x42)_113
+  - first:
+      213: -2411085299535372410
+    second: Attack (44x42)_114
+  - first:
+      213: 6536845281252138913
+    second: Attack (44x42)_115
+  - first:
+      213: 149009179886985614
+    second: Attack (44x42)_116
+  - first:
+      213: -3955777981812657285
+    second: Attack (44x42)_117
+  - first:
+      213: -6232596812056568394
+    second: Attack (44x42)_118
+  - first:
+      213: 9093734962973026248
+    second: Attack (44x42)_119
+  - first:
+      213: -45768419933541499
+    second: Attack (44x42)_120
+  - first:
+      213: -6424453518865604783
+    second: Attack (44x42)_121
+  - first:
+      213: -3458959608328834722
+    second: Attack (44x42)_122
+  - first:
+      213: 6252490632402247330
+    second: Attack (44x42)_123
+  - first:
+      213: -5808859309834499892
+    second: Attack (44x42)_124
+  - first:
+      213: -7810765556603260127
+    second: Attack (44x42)_125
+  - first:
+      213: 5141313473725203946
+    second: Attack (44x42)_126
+  - first:
+      213: -7264428749487982452
+    second: Attack (44x42)_127
+  - first:
+      213: 4061400543009696246
+    second: Attack (44x42)_128
+  - first:
+      213: -8757267100378532767
+    second: Attack (44x42)_129
+  - first:
+      213: 825487961948474126
+    second: Attack (44x42)_130
+  - first:
+      213: 2721637552055877968
+    second: Attack (44x42)_131
+  - first:
+      213: 4653326294628098029
+    second: Attack (44x42)_132
+  - first:
+      213: -4964670051542905002
+    second: Attack (44x42)_133
+  - first:
+      213: 8924804369014701281
+    second: Attack (44x42)_134
+  - first:
+      213: -5858369701959545726
+    second: Attack (44x42)_135
+  - first:
+      213: -25099779810781431
+    second: Attack (44x42)_136
+  - first:
+      213: -5638569047480178029
+    second: Attack (44x42)_137
+  - first:
+      213: -309308342569330263
+    second: Attack (44x42)_138
+  - first:
+      213: 8931984477358124998
+    second: Attack (44x42)_139
+  - first:
+      213: 3013708404372258041
+    second: Attack (44x42)_140
+  - first:
+      213: -4593266128980994235
+    second: Attack (44x42)_141
+  - first:
+      213: 3197807331628563709
+    second: Attack (44x42)_142
+  - first:
+      213: 1136208805172596574
+    second: Attack (44x42)_143
+  - first:
+      213: -6761171471430865813
+    second: Attack (44x42)_144
+  - first:
+      213: -3559945739913922167
+    second: Attack (44x42)_145
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack (44x42)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2038a44ec82481930800000000000000
+      internalID: 4114111432495891202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack (44x42)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe8e7c87addc7310800000000000000
+      internalID: 1404240895519133374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack (44x42)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa43aa3b06dbfc3f0800000000000000
+      internalID: -878275179285171030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack (44x42)_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b38867324477790800000000000000
+      internalID: -7532476932650681572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack (44x42)_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2795a7c66d074b0800000000000000
+      internalID: -5444616188093435142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack (44x42)_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0defe0c371a130800000000000000
+      internalID: 3576266851605089446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack (44x42)_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ae3213d6094e450800000000000000
+      internalID: 6117172992526248574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack (44x42)_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0553fa9fdff2d00800000000000000
+      internalID: 950257295226654881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack (44x42)_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a8e7f8328423430800000000000000
+      internalID: 3761147956376275535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack (44x42)_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abad7dc026951de0800000000000000
+      internalID: -1363018244579021913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack (44x42)_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c268d8c952d2c30800000000000000
+      internalID: 4336163370547162259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
