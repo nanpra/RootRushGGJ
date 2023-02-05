@@ -39,4 +39,11 @@ public class Player : MonoBehaviour
         agent.Move(mainMov * moveSpeed * Time.deltaTime);
         //agent.SetDestination(target.position);
     }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Collectable"))
+        {
+            Destroy(collision.gameObject);
+        }
+    }
 }
